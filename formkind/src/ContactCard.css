@@ -1,0 +1,27 @@
+
+.ContactCard{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 250px;
+    height: auto;
+    background-color: #cd7272;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin: 10px;
+    transition: all 0.3s ease;
+}
+
+.ContactCard img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+
+.ContactCard h2, .ContactCard p {
+    margin: 5px;
+    color: #0b2b10;
+}
