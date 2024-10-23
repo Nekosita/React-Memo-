@@ -1,0 +1,17 @@
+
+.Joke{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 250px;
+    height: auto;
+    padding: 20px;
+    margin: 10px;
+    background-color: #94dca1;
+}
+
+.ContactCard h3{
+    margin: 5px;
+    color: #0b2b10;
+}
